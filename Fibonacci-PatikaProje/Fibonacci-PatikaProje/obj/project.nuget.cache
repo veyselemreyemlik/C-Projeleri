@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRD5M/hIxM3Fq3AT229Yb42+MuL2y5bbCC/5sgb/pxvet0LE3UGzGdWYJiGIqR4o9rO6VpAeYquDPlQQ0siBSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Fibonacci-PatikaProje\\Fibonacci-PatikaProje\\Fibonacci-PatikaProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

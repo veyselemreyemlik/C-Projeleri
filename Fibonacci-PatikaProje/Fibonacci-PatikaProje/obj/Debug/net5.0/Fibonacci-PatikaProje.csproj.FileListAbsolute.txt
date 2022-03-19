@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\ref\Fibonacci-PatikaProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\bin\Debug\net5.0\Fibonacci-PatikaProje.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\ref\Fibonacci-PatikaProje.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Fibonacci-PatikaProje\Fibonacci-PatikaProje\obj\Debug\net5.0\Fibonacci-PatikaProje.genruntimeconfig.cache
