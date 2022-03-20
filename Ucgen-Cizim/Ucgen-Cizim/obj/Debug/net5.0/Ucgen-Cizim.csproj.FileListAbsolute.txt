@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\ref\Ucgen-Cizim.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\bin\Debug\net5.0\Ucgen-Cizim.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\ref\Ucgen-Cizim.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Ucgen-Cizim\Ucgen-Cizim\obj\Debug\net5.0\Ucgen-Cizim.genruntimeconfig.cache
