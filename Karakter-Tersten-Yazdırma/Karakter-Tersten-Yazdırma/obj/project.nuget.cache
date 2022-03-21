@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TI1ykMO4eFHAHokKgWCS4/+cdWE7+69e+EM5fDI3wO03qvw/GY0K0BHCqSVVW2grVvIHXYpPVqdAZlM4yWjRzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Patika C# Projeleri\\Karakter-Tersten-Yazdırma\\Karakter-Tersten-Yazdırma\\Karakter-Tersten-Yazdırma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
