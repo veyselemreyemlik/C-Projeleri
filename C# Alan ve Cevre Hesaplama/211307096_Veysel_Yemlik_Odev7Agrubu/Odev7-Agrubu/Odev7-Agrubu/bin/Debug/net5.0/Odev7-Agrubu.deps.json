@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Odev7-Agrubu/1.0.0": {
+        "runtime": {
+          "Odev7-Agrubu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Odev7-Agrubu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
